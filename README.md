@@ -29,21 +29,18 @@ The project uses the Nobel Prize dataset (`data/raw/nobel.csv`) which contains c
 Visualizing the History of Nobel Prize Winners/
 ├── data/              # Data storage and documentation
 │   ├── raw/           # Original Nobel Prize dataset
+│   │   └── nobel.csv  # Complete Nobel Prize dataset (1901-2023)
 │   ├── processed/     # Cleaned and transformed data
-│   └── cleaned/       # Final analysis-ready datasets
+│   ├── cleaned/       # Final analysis-ready datasets
+│   └── README.md      # Data documentation
 ├── notebooks/         # Jupyter notebooks for analysis
-│   └── project answer.ipynb  # Main analysis notebook
-├── src/               # Core source code modules
-├── scripts/           # Standalone analysis scripts
-├── tests/             # Test suite
-├── config/            # Configuration files
-├── reports/           # Generated analysis reports
-├── docs/              # Project documentation
-├── logs/              # Analysis logs
+│   ├── project answer.ipynb  # Main analysis notebook
+│   ├── Nobel_Prize.png       # Generated visualization
+│   └── archive/              # Archived notebook versions
 ├── environment.yml    # Conda environment specification
 ├── requirements.txt   # Python dependencies
-├── README.md          # This file
-└── setup.py           # Package configuration
+├── setup.py          # Package configuration
+└── README.md         # This file
 ```
 
 ## Getting Started
