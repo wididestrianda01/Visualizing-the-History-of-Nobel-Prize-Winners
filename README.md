@@ -1,6 +1,6 @@
 # Visualizing the History of Nobel Prize Winners
 
-A comprehensive data analysis and visualization project exploring the Nobel Prize dataset from 1901 to present. This project analyzes patterns, trends, and insights from over a century of Nobel Prize awards across all categories.
+A comprehensive data analysis and visualization project exploring the Nobel Prize dataset from 1901 to 2023. This project analyzes patterns, trends, and insights from over a century of Nobel Prize awards across all categories.
 
 ## Project Overview
 
